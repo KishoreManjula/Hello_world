@@ -1,2 +1,8 @@
 # Hello_world
-sample rep
+
+Hi Friend,
+
+         I'm Kishore Manjula
+         
+         
+         Thanks :)
